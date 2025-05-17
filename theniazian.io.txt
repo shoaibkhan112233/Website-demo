@@ -1,0 +1,19 @@
+TheniazianApp/
+├── public/
+│   └── index.html
+├── src/
+│   ├── firebase.js
+│   ├── App.js
+│   ├── index.js
+│   ├── components/
+│   │   ├── Register.js
+│   │   ├── Login.js
+│   │   ├── Dashboard.js
+│   │   ├── DepositForm.js
+│   │   ├── WithdrawForm.js
+│   │   ├── Referral.js
+│   │   └── AdminPanel.js
+├── .firebaserc
+├── firebase.json
+├── package.json
+└── README.md
